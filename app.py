@@ -3,6 +3,7 @@ import joblib
 import re
 import nltk
 import sklearn
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVecto
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
