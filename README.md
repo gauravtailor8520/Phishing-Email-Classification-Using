@@ -5,7 +5,7 @@ The primary goal of this project is to build a model capable of detecting phishi
 
 ## Demo:
 
-https://github.com/user-attachments/assets/aa69e834-d0aa-4eb0-9321-58572130a998
+[https://github.com/user-attachments/assets/aa69e834-d0aa-4eb0-9321-58572130a998](https://github.com/user-attachments/assets/f1fa87ff-4f87-48a0-b227-5ae69ebb608d)
 
 ## Key Features:
 - Model Development: Developed a machine learning model to detect phishing emails with high accuracy.
