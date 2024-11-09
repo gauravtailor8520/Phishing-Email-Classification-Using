@@ -1,7 +1,7 @@
 # Phishing-Detector
 
 ## Objective:
-The primary goal of this project is to build a machine learning model capable of detecting phishing emails. Phishing emails are fraudulent messages designed to trick recipients into providing sensitive information, and detecting them is crucial for cybersecurity.
+The primary goal of this project is to build a model capable of detecting phishing emails. Phishing emails are fraudulent messages designed to trick recipients into providing sensitive information, and detecting them is crucial for cybersecurity.
 
 ## Demo:
 
